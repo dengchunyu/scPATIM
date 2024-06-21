@@ -19,6 +19,7 @@ write.table(gwas_data,file= "/share/pub/dengcy/Cancer_Gwas/Runtime2.0/3.1.valid_
 
 the input data of single cell has no difference with scPagwas.
 
+
 ## 2. Run the scPagwas
 
 ```bash
